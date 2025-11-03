@@ -20,8 +20,9 @@ Short highlights:
 ---
 
 ## Screenshot (mobile)
-<img width="1082" height="2400" alt="localhost_56548_(Samsung Galaxy A51_71)" src="https://github.com/user-attachments/assets/f41ee488-3350-4de1-b2b6-6576292755f6" />
-<img width="1082" height="2400" alt="localhost_56548_(Samsung Galaxy A51_71)" src="https://github.com/user-attachments/assets/d7cd6a83-6bcc-4eaa-bb4e-0096dbaac892" />
+<<img src="https://github.com/user-attachments/assets/f41ee488-3350-4de1-b2b6-6576292755f6" width="400" />
+<img src="https://github.com/user-attachments/assets/d7cd6a83-6bcc-4eaa-bb4e-0096dbaac892" width="400" />
+
 
 
 
