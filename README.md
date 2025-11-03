@@ -69,18 +69,7 @@ flutter run -d ios
 
 Tip: This UI is designed for mobile (portrait). Use `flutter devices` to list available targets and pick an emulator/device.
 
-Adding screenshots to this README
 
-1. Add image files to `assets/screenshots/`.
-2. Ensure the images are included in `pubspec.yaml` under the `assets:` section (or add them via a glob):
-
-```yaml
-flutter:
-	assets:
-		- assets/screenshots/
-```
-
-3. Commit the images and update the markdown image paths shown above.
 
 ---
 
